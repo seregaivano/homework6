@@ -37,6 +37,7 @@ public class Main {
             System.out.println("Месяц " + i + " сумма накоплений равна " + total + " рублей");
         }
         // Задача 9
+
         int salary1 = 29000;
         double procent = 0.01;
         for (int i = 1; i <= 12; i++) {
@@ -44,6 +45,7 @@ public class Main {
                 System.out.println("Месяц " + i + " , сумма накоплений равна " + salary1 + " рублей");
             }
         // Задача 10
+
         int e = 2;
         for (int i = 1; i <=10; i++){
             System.out.println(e + "*" + i + "="+ (e * i));
